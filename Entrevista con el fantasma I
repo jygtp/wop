@@ -1,111 +1,84 @@
 <div style="font-family:Calibri;">
-<div style="background-image:url(https://media.giphy.com/media/2WjnOJMabobfmQ09jw/giphy.gif);border:solid;">
+<div style="background-image:url(data:image/jpeg;base64,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);border:solid;">
 <div style="margin:20px;">
 <div style="padding:45px;">
-<div style="background-color:rgba(245,245,245,.7);border:solid;">
+<div style="background-color:#4c7553;border:solid;">
 <div style="margin:20px;">
 <center>
 <hr />
-<h1><b>ENTREVISTA CON EL FANTASMA&nbsp;</b></h1>
+<h1><span style="color:#053d03;"><b>ENTREVISTA CON EL FANTASMA&nbsp;</b></span></h1>
 
 <hr />
 <p>&nbsp;</p>
 </center>
 
-<p>Hola hola, bienvenidos, bienvenidas a...&nbsp;<s><strong>&iquest;a d&oacute;nde? Si esto se lee, &iquest;tengo que dar la bienvenida?</strong></s>​​ ​<strong><em>&ldquo;Entrevista con el fantasma&rdquo;.&nbsp;</em></strong>Soy vuestro amigo y vecino&nbsp;<strong><s>espera eso era de otra saga, &iquest;no?</s>&nbsp;Toby Kent,&nbsp;</strong>pero pod&eacute;is llamarme&nbsp;<em>pacomer.&nbsp;</em><strong><s>Y ahora que ya he quedado mal, procedo a presentar esto que se me hace de noche y no avanzo.&nbsp;</s></strong></p>
+<p><span style="color:#000000;">Hola hola, bienvenidos, bienvenidas a...&nbsp;<s><strong>&iquest;a d&oacute;nde? Si esto se lee, &iquest;tengo que dar la bienvenida?</strong></s>​​ ​<strong><em>&ldquo;Entrevista con el fantasma&rdquo;.&nbsp;</em></strong>Soy vuestro amigo y vecino&nbsp;<strong><s>espera eso era de otra saga, &iquest;no?</s>&nbsp;Toby Kent,&nbsp;</strong>pero pod&eacute;is llamarme&nbsp;<em>pacomer.&nbsp;</em><strong><s>Y ahora que ya he quedado mal, procedo a presentar esto que se me hace de noche y no avanzo.&nbsp;</s></strong></span></p>
+
+<p><span style="color:#000000;">Os preguntar&eacute;is de qu&eacute; exactamente va esta secci&oacute;n&nbsp;<strong><s>para la pr&oacute;xima os le&eacute;is el t&iacute;tulo que hay que darlo todo mascado...</s></strong>&nbsp;Es algo f&aacute;cil, sencillo y para toda la familia... Entrevistas, si, lo hab&eacute;is averiguado. Pues bien, cada semana, se elegir&aacute; a un pobre alma en pena para que tenga el grato honor de que yo <b><strike>el guap&iacute;simo, maj&iacute;simo y espectacular</strike></b>&nbsp;Toby Kent, le haga una serie de preguntas que deber&aacute;n responderse con la mayor sinceridad y alegr&iacute;a posible. &iquest;Suena f&aacute;cil verdad? Pues atentos todos a la lechucer&iacute;a porque aqu&iacute; no se libra nadie.&nbsp;</span></p>
 
 <p>&nbsp;</p>
 
-<p>Os preguntar&eacute;is de qu&eacute; exactamente va esta secci&oacute;n&nbsp;<strong><s>para la pr&oacute;xima os le&eacute;is el t&iacute;tulo que hay que darlo todo mascado...</s></strong>&nbsp;Es algo f&aacute;cil, sencillo y para toda la familia... Entrevistas, si, lo hab&eacute;is averiguado. Pues bien, cada semana, se elegir&aacute; a un pobre alma en pena para que tenga el grato honor de que yo <b><strike>el guap&iacute;simo, maj&iacute;simo y espectacular</strike></b>&nbsp;Toby Kent, le haga una serie de preguntas que deber&aacute;n responderse con la mayor sinceridad y alegr&iacute;a posible. &iquest;Suena f&aacute;cil verdad? Pues atentos todos a la lechucer&iacute;a porque aqu&iacute; no se libra nadie.&nbsp;</p>
+<center><span style="color:#000000;"><img alt="" src="https://media.giphy.com/media/xwhCM9Fc7aGJi/giphy.gif" style="width: 250px; height: 147px;" /></span></center>
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
-
-<center><img alt="" src="https://media.giphy.com/media/xwhCM9Fc7aGJi/giphy.gif" style="width: 250px; height: 147px;" /></center>
+<p><span style="color:#000000;">Hoy, s&aacute;bado, un d&iacute;a de libertad, de descanso. Un d&iacute;a para pasarlo en el lago&nbsp;<strong><s>arriesgando la vida con Pulpi</s></strong>&nbsp;nos hemos reunido aqu&iacute; para conocer mejor a una compa&ntilde;era, que no solo es Slytherin&nbsp;<strong><s>suele ser requisito fundamental para que tenga el gusto de lechucearse conmigo</s><s>&nbsp;</s></strong>sino que ha sido premiada con el t&iacute;tulo de&nbsp;<strong><em>Serpiente del a&ntilde;o</em></strong>&nbsp;<strong><s>un titulo que por alguna extra&ntilde;a raz&oacute;n, supongamos nombres traspapelados, yo no he recibido.&nbsp;</s></strong></span></p>
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
-
-<p>Hoy, s&aacute;bado, un d&iacute;a de libertad, de descanso. Un d&iacute;a para pasarlo en el lago&nbsp;<strong><s>arriesgando la vida con Pulpi</s></strong>&nbsp;nos hemos reunido aqu&iacute; para conocer mejor a una compa&ntilde;era, que no solo es Slytherin&nbsp;<strong><s>suele ser requisito fundamental para que tenga el gusto de lechucearse conmigo</s><s>&nbsp;</s></strong>sino que ha sido premiada con el t&iacute;tulo de&nbsp;<strong><em>Serpiente del a&ntilde;o</em></strong>&nbsp;<strong><s>un titulo que por alguna extra&ntilde;a raz&oacute;n, supongamos nombres traspapelados, yo no he recibido.&nbsp;</s></strong></p>
+<p><span style="color:#000000;">UN FUERTE APLAUSO PARA&nbsp;<strong><em>DIANA MALFOY&nbsp;</em></strong></span></p>
 
 <p>&nbsp;</p>
 
-<p>UN FUERTE APLAUSO PARA&nbsp;<strong><em>DIANA MALFOY&nbsp;</em></strong></p>
+<center><span style="color:#000000;"><strong><em><img alt="" src="https://media.giphy.com/media/Ws1ksbO7igEQ8/giphy.gif" style="width: 250px; height: 105px;" /></em></strong></span></center>
+
+<center>&nbsp;</center>
+
+<div style="background:#eee;border:1px solid #ccc;padding:5px 10px;"><span style="color:#2a362c;">&nbsp;&iquest;C&oacute;mo conociste WoP? &iquest;Por qu&eacute; decidiste entrar?</span></div>
+
+<p><span style="color:#000000;">Conoc&iacute; WoP de casualidad <strong><s>a saber lo que estar&iacute;a buscando...</s></strong>. Ya hace dos meses que entr&eacute; y no me acuerdo bien de los detalles, pero me gusta el mundo de Harry Potter <strong><s>el innombrable</s></strong>&nbsp;y supongo que as&iacute; lo conoc&iacute;. Decid&iacute; unirme por qu&eacute; me entr&oacute; curiosidad, y me gust&oacute;.</span></p>
+
+<div style="background:#eee;border:1px solid #ccc;padding:5px 10px;"><span style="color:#000000;">&iquest;Por qu&eacute; crees que el sombrero tuvo la decencia de ponerte en Slytherin?</span></div>
+
+<p><span style="color:#000000;">Supongo que es porque siempre pienso antes de actuar y siempre intento conseguir mis metas.&nbsp;<strong><s>Y no da demasiadas explicaciones</s></strong></span></p>
+
+<div style="background:#eee;border:1px solid #ccc;padding:5px 10px;"><span style="color:#000000;">Cu&eacute;ntanos, &iquest;de d&oacute;nde viene Diana Malfoy? &iquest;Cu&aacute;les son tus origenes?</span></div>
+
+<p><span style="color:#000000;">Nac&iacute; en Londres, aunque la familia de mi padre era de Francia (pero hace muchas generaciones que fueron a Londres) y mi madre es de Irlanda, como el resto de su familia <strong><s>&iquest;Hermanos? &iquest;Primos? &iquest;Alg&uacute;n detallista turbio? Diana que esta secci&oacute;n no se mantienen sola dame salseo</s></strong>.</span></p>
+
+<div style="background:#eee;border:1px solid #ccc;padding:5px 10px;"><span style="color:#000000;">La finalidad de esta entrevista sin duda es conocerte mejor, &iquest;algo que contarnos? &iquest;Alg&uacute;n amor secreto? &iquest;Enemigo mortal? &iquest;Algo que solo pueda saber el Tito Kent?</span></div>
+
+<p><span style="color:#000000;"><strong><s>*cri cri*</s></strong></span></p>
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
+<center><span style="color:#000000;"><strong><s><img alt="" src="https://media.giphy.com/media/mzPZiIDA7qNdS/giphy.gif" style="width: 250px; height: 195px;" /></s></strong></span></center>
 
-<center><strong><em><img alt="" src="https://media.giphy.com/media/Ws1ksbO7igEQ8/giphy.gif" style="width: 250px; height: 105px;" /></em></strong></center>
+<center>&nbsp;</center>
 
-<p>&nbsp;</p>
+<div style="background:#eee;border:1px solid #ccc;padding:5px 10px;"><span style="color:#000000;">Y por &uacute;ltimo, pero no menos importante, &iquest;algo que decirle a tus compa&ntilde;eros? (Si es una declaraci&oacute;n de enemistad en directo tambien nos vale)</span></div>
 
-<p>&nbsp;</p>
-
-<div style="background:#eee;border:1px solid #ccc;padding:5px 10px;">&nbsp;&iquest;C&oacute;mo conociste WoP? &iquest;Por qu&eacute; decidiste entrar?</div>
-
-<p>&nbsp;</p>
-
-<p><em>&nbsp;</em>Conoc&iacute; WoP de casualidad <strong><s>a saber lo que estar&iacute;a buscando...</s></strong>. Ya hace dos meses que entr&eacute; y no me acuerdo bien de los detalles, pero me gusta el mundo de Harry Potter <strong><s>el innombrable</s></strong>&nbsp;y supongo que as&iacute; lo conoc&iacute;. Decid&iacute; unirme por qu&eacute; me entr&oacute; curiosidad, y me gust&oacute;.</p>
-
-<p>&nbsp;</p>
-
-<div style="background:#eee;border:1px solid #ccc;padding:5px 10px;">&iquest;Por qu&eacute; crees que el sombrero tuvo la decencia de ponerte en Slytherin?</div>
-
-<p>&nbsp;</p>
-
-<p>Supongo que es porque siempre pienso antes de actuar y siempre intento conseguir mis metas.&nbsp;<strong><s>Y no da demasiadas explicaciones</s></strong></p>
-
-<p>&nbsp;</p>
-
-<div style="background:#eee;border:1px solid #ccc;padding:5px 10px;">Cu&eacute;ntanos, &iquest;de d&oacute;nde viene Diana Malfoy? &iquest;Cu&aacute;les son tus origenes?</div>
-
-<p>&nbsp;</p>
-
-<p>Nac&iacute; en Londres, aunque la familia de mi padre era de Francia (pero hace muchas generaciones que fueron a Londres) y mi madre es de Irlanda, como el resto de su familia <strong><s>&iquest;Hermanos? &iquest;Primos? &iquest;Alg&uacute;n detallista turbio? Diana que esta secci&oacute;n no se mantienen sola dame salseo</s></strong>.</p>
-
-<p>&nbsp;</p>
-
-<div style="background:#eee;border:1px solid #ccc;padding:5px 10px;">La finalidad de esta entrevista sin duda es conocerte mejor, &iquest;algo que contarnos? &iquest;Alg&uacute;n amor secreto? &iquest;Enemigo mortal? &iquest;Algo que solo pueda saber el Tito Kent?</div>
-
-<p>&nbsp;</p>
-
-<p><strong><s>*cri cri*</s></strong></p>
+<p><span style="color:#000000;">El curso ha empezado hace no mucho, y a&uacute;n falta camino por recorrer. El curso anterior ganamos la copa de las casas, y supongo que todos estamos orgullosos de ello. Mi enhorabuena a todas las serpientes, y &aacute;nimo por cumplir vuestro objetivo de este curso <s><strong>aqu&iacute; nadie amenaza a nadie, pero tenemos un pulpo</strong></s></span></p>
 
 <p>&nbsp;</p>
 
 <p>&nbsp;</p>
 
-<center><strong><s><img alt="" src="https://media.giphy.com/media/mzPZiIDA7qNdS/giphy.gif" style="width: 250px; height: 195px;" /></s></strong></center>
+<center><span style="color:#000000;"><s><strong><img alt="" src="https://pbs.twimg.com/media/DqyFBzKWwAEVJQf.jpg" style="width: 250px; height: 143px;" /></strong></s></span></center>
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
+<center><span style="color:#000000;"><s><strong><img alt="" src="https://photos.smugmug.com/My-First-Gallery/i-Kh554nW/0/ad5838cc/M/D85E5517-02CE-4D90-974C-20C6BA19D6D6-M.jpg" style="width: 250px; height: 150px;" /></strong></s></span></center>
 
-<div style="background:#eee;border:1px solid #ccc;padding:5px 10px;">Y por &uacute;ltimo, pero no menos importante, &iquest;algo que decirle a tus compa&ntilde;eros? (Si es una declaraci&oacute;n de enemistad en directo tambien nos vale)</div>
+<p><span style="color:#000000;">.</span></p>
 
-<p>&nbsp;</p>
+<p><span style="color:#000000;">Y hasta aqu&iacute; la entrevista, ya sab&eacute;is un poquito m&aacute;s de D&iacute;ana Malfoy <s><strong>o no</strong></s>&nbsp;y un poquito m&aacute;s de la casa.&nbsp;&nbsp;</span></p>
 
-<p>El curso ha empezado hace no mucho, y a&uacute;n falta camino por recorrer. El curso anterior ganamos la copa de las casas, y supongo que todos estamos orgullosos de ello. Mi enhorabuena a todas las serpientes, y &aacute;nimo por cumplir vuestro objetivo de este curso <s><strong>aqu&iacute; nadie amenaza a nadie, pero un calamar&nbsp;tengo&nbsp;</strong></s></p>
-
-<p>&nbsp;</p>
+<p><span style="color:#000000;">Estad atentos a la lechucer&iacute;a porque t&uacute;, si t&uacute;, puedes ser mi pr&oacute;xima v&iacute;ctima.&nbsp;</span></p>
 
 <p>&nbsp;</p>
 
-<center><s><strong><img alt="" src="https://media.giphy.com/media/1YebB9jnNFt6xLRR1x/giphy.gif" style="width: 250px; height: 141px;" /></strong></s></center>
-.
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>Y hasta aqu&iacute; la entrevista, ya sab&eacute;is un poquito m&aacute;s de D&iacute;ana Malfoy <s><strong>o no</strong></s>&nbsp;y un poquito m&aacute;s de la casa. &nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>Estad atentos a la lechucer&iacute;a porque t&uacute;, si t&uacute;, puedes ser mi pr&oacute;xima v&iacute;ctima.&nbsp;</p>
+<p><img alt="" src="http://i67.tinypic.com/15zli03_th.gif" style="width: 160px; height: 65px;" /></p>
 
 <p>&nbsp;</p>
 </div>
